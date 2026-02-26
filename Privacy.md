@@ -120,9 +120,31 @@ Where this occurs, we take reasonable steps to ensure overseas recipients comply
 
 ## 9. Cookies and Analytics
 
-Our website may use cookies or analytics tools to understand usage patterns and improve user experience.
+Our website uses Google Analytics, a web analytics service provided by Google LLC.
 
-You can control cookie preferences through your browser settings.
+Google Analytics uses cookies and similar technologies to collect information about how visitors use our website. This may include:
+
+- IP address (which may be anonymised)
+- Browser and device information
+- Pages visited and time spent on pages
+- Referring website
+- General geographic location (city-level)
+
+This information helps us:
+
+- Understand website traffic and usage patterns
+- Improve website performance and content
+- Enhance user experience
+
+Google may store data on servers located outside Australia, including in the United States.
+
+You can opt out of Google Analytics tracking by:
+
+- Using browser settings to block cookies
+- Installing the Google Analytics Opt-out Browser Add-on
+- Using private browsing modes
+
+For more information on how Google handles data, please refer to Google’s Privacy Policy.
 
 ---
 
@@ -143,6 +165,12 @@ If you are not satisfied with our response, you may lodge a complaint with the O
 ## 12. Updates to This Policy
 
 We may update this Privacy Policy from time to time. The latest version will always be available on this page.
+
+---
+
+## 13. Data Minimisation
+
+We configure analytics services, where possible, to minimise personal data collection and to avoid collecting unnecessary personally identifiable information.
 
 ---
 
