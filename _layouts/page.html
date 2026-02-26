@@ -1,32 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+---
 
-{% include head.html %}
+<section class="bg-primary">
+  <div class="container text-center">
+    <h1>{{ page.title }}</h1>
+    <hr class="light">
+  </div>
+</section>
 
-<body id="page-top">
-
-  {% include nav.html %}
-
-  <!-- Page Header -->
-  <section class="bg-primary">
-      <div class="container text-center">
-          <h1>{{ page.title }}</h1>
-          <hr class="light">
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        {{ content }}
       </div>
-  </section>
-
-  <!-- Page Content -->
-  <section>
-      <div class="container">
-          <div class="row">
-              <div class="col-lg-8 col-lg-offset-2">
-                  {{ content }}
-              </div>
-          </div>
-      </div>
-  </section>
-
-  {% include scripts.html %}
-
-</body>
-</html>
+    </div>
+  </div>
+</section>
